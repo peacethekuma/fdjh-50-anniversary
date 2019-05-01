@@ -10814,7 +10814,7 @@ h2.title {
     padding: 1rem; }
     .bmd-layout-drawer > header .navbar-brand {
       padding-left: 1.5rem;
-      font-size: 1.25rem; }
+      font-size: 3.25rem; }
   .bmd-layout-drawer > .list-group {
     padding-top: 1rem; }
     .bmd-layout-drawer > .list-group .list-group-item {
@@ -12681,6 +12681,9 @@ body {
 .brand {
   background-color: rgba(255, 255, 255, 0.8);
   box-shadow: 0px 0px 22px black; }
+
+.navbar .navbar-brand {
+  font-size: 1.6rem; }
 
 .heading-primary {
   color: #ff4215;
